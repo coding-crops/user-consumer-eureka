@@ -14,4 +14,4 @@ eureka:
   server:
     enable-self-preservation:
      false
-newCloud: 333333
+newCloud: 335555
