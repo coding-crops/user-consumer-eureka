@@ -14,4 +14,4 @@ eureka:
   server:
     enable-self-preservation:
       true
-newCloud: mamaipi
+newCloud: 335555
