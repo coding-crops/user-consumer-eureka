@@ -13,5 +13,5 @@ eureka:
       defaultZone: http://localhost:8761/eureka/
   server:
     enable-self-preservation:
-      true
-newCloud: 3222
+      false
+newCloud: 324444
